@@ -75,3 +75,5 @@ function printCart() {
     //Skrive ut antall produkter:
     document.getElementById("cartcount").innerHTML = cartNumber
 }
+
+printCart()
